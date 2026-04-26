@@ -105,6 +105,8 @@
   color: var(--primary);
 }
 
+/*add logic to validate*/
+
 /* Status Pills V2 */
 .status-pill-v2 {
   display: inline-flex;
@@ -253,6 +255,8 @@
   line-height: 1.6;
   margin: 8px 0 0 0;
 }
+
+*/implement booking*/
 
 /* Forms */
 .time-inputs {
